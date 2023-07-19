@@ -5,7 +5,7 @@ Planning and documenting the truck systems to be installed
 - 2021 GMC Sierra 1500 AT4 Gas 5.3L V8
 - Rally marshalling, towing car trailers, & general family use (presentation matters - not just a work horse)
 
-## Amateur Radio
+## [Amateur Radio](./RadioSystem/Radio.md)
 - Transceiver: Kenwood G707A (used)
 - Antenna: DIA-NR73BNMO
 - Antenna Mount Location: Driver hood fender (custom bracket)
