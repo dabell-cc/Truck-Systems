@@ -10,7 +10,7 @@ Planning and documenting the truck systems to be installed
 - Antenna: DIA-NR73BNMO
 - Antenna Mount Location: Driver hood fender (custom bracket)
 
-## Auxiliary Lights
+## [Auxiliary Lights](./LightSystem/Lights.md)
 - AuxBeam 8 button controller
 - Amber strobes in grill
 - Bed rail stake pocket temp-mounted side/rear spot lights with amber flashers
